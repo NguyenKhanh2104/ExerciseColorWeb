@@ -371,8 +371,8 @@ a.readmore_bt {
 
 
 .head-top {
-	background: #ad2100;
-	padding: 6px 0px;
+    background: #1a9b12;
+    padding: 6px 0px;
 }
 .head-top .email a {
 	color: #fff;
@@ -1428,8 +1428,8 @@ input[type="checkbox"] .styled:checked+label::after, input[type="radio"] .styled
 	color: #110707;
 }
 .dark_brown {
-	color: #ad2100;
-	font-weight: bold;
+	color: #1a9b12;
+    font-weight: bold;
 }
 .full-slider_cont p {
 	font-weight: 400;
@@ -1453,7 +1453,7 @@ input[type="checkbox"] .styled:checked+label::after, input[type="radio"] .styled
 	color: #080404;
 }
 .cur {
-	color: #ad2100;
+	background: #1a9b12;
 	font-weight: 500;
 }
 .Currency .three-box {
