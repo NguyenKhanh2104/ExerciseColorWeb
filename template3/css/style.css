@@ -61,7 +61,7 @@ h1, h2, h3, h4, h5, h6 {
 	padding: 0 0 10px 0;
 	font-weight: normal;
 	line-height: normal;
-	color: #111111;
+	color: #616361;
 	margin: 0
 }
 h1 {
@@ -240,13 +240,13 @@ button {
 	font-weight: 600;
 }
 .main_bt {
-	background: #000;
+	background: #616361;
 	color: #fff;
 	padding: 10px 60px 10px 60px;
 	float: left;
 	font-size: 15px;
 	font-weight: 400;
-	border: solid #000 5px;
+	border: solid #616361 5px;
 	border-radius: 0;
 	margin-right: 30px;
 }
@@ -256,8 +256,8 @@ a.readmore_bt {
 	text-decoration: underline !important;
 }
 .main_bt:hover, .main_bt:focus {
-	background: #ad2101;
-	border: solid #ad2101 5px;
+	background: #f46707;
+	border: solid #f46707 5px;
 	color: #fff;
 }
 /**-- list icon --**/
@@ -371,7 +371,7 @@ a.readmore_bt {
 
 
 .head-top {
-    background: #003eff;
+    background: #f46707;
     padding: 6px 0px;
 }
 .head-top .email a {
@@ -412,10 +412,10 @@ nav.main-menu {
 	margin-left: 0;
 }
 .menu-area-main li:hover a, .menu-area-main li:focus a {
-	color: #b23011;
+	color: #f46707;
 }
 .menu-area-main li.active a {
-	color: #b23011;
+	color: #f46707;
 }
 .right_cart_section {
 	float: right;
@@ -1425,10 +1425,10 @@ input[type="checkbox"] .styled:checked+label::after, input[type="radio"] .styled
 .full-slider_cont h1 {
 	font-size: 65px;
 	line-height: 72px;
-	color: #110707;
+	color: #616361;
 }
 .dark_brown {
-	color: #1a9b12;
+	color: #f46707;
     font-weight: bold;
 }
 .full-slider_cont p {
@@ -1450,10 +1450,10 @@ input[type="checkbox"] .styled:checked+label::after, input[type="radio"] .styled
 	font-weight: 500;
 	line-height: 72px;
 	font-size: 40px;
-	color: #080404;
+	color: #616361;
 }
 .cur {
-	background: #1a9b12;
+	background: #ffffff;
 	font-weight: 500;
 }
 .Currency .three-box {
@@ -1493,7 +1493,7 @@ input[type="checkbox"] .styled:checked+label::after, input[type="radio"] .styled
 }
 .Currency .three-box .read-more {
 	padding: 11px 20px;
-	background-color: #000;
+	background-color: #616361;
 	color: #fff;
 	display: inline-block;
 	margin-top: 26px;
@@ -1502,7 +1502,7 @@ input[type="checkbox"] .styled:checked+label::after, input[type="radio"] .styled
 	line-height: 20px;
 }
 .Currency .three-box .read-more:hover {
-	background-color: #ad2100;
+	background-color: #f46707;
 }
 .abouts {
 	display: flow-root;
@@ -1539,7 +1539,7 @@ input[type="checkbox"] .styled:checked+label::after, input[type="radio"] .styled
 	padding-top: 90px;
 }
 .service .STRONG {
-	background-color: #100505;
+	background-color: #616361;
 	text-align: center;
 	padding: 40px 40px;
 }
@@ -1555,7 +1555,7 @@ input[type="checkbox"] .styled:checked+label::after, input[type="radio"] .styled
 	color: #fff;
 }
 .service .world {
-	background-color: #ad2100;
+	background-color: #f46707;
 	text-align: center;
 	padding: 40px 40px;
 	margin-top: 30px;
@@ -1575,12 +1575,12 @@ input[type="checkbox"] .styled:checked+label::after, input[type="radio"] .styled
 	font-weight: 500;
 	line-height: 35px;
 	font-size: 40px;
-	color: #080404;
+	color: #616361;
 	padding-bottom: 20px;
 	text-transform: uppercase;
 }
 .cur {
-	color: #ad2100;
+	color:#f46707;
 	font-weight: 500;
 }
 .service .service-box p {
@@ -1607,12 +1607,12 @@ input[type="checkbox"] .styled:checked+label::after, input[type="radio"] .styled
 	font-weight: 500;
 	line-height: 50px;
 	font-size: 40px;
-	color: #080404;
+	color: #616361;
 	text-transform: uppercase;
 	padding-bottom: 0px;
 }
 .experts .experts-box {
-	background-color: #060402;
+	background-color: #100805;
 }
 .experts .experts-box {
 	padding-top: 50px;
@@ -1655,7 +1655,7 @@ input[type="checkbox"] .styled:checked+label::after, input[type="radio"] .styled
 .Request .titlepage3 h2 {
 	font-size: 40px;
 	line-height: 50px;
-	color: #100b0b;
+	color: #616361;
 	padding-bottom: 0px;
 }
 .form-control {
@@ -1679,14 +1679,14 @@ input[type="checkbox"] .styled:checked+label::after, input[type="radio"] .styled
 .send-btn {
 	margin-left: 15px;
 	font-size: 16px;
-	border: #000000 solid 2px;
+	border: #616361 solid 2px;
 	padding: 16px 70px;
-	background-color: #000000;
+	background-color: #616361;
 	color: #fff;
 }
 .send-btn:hover {
-	background-color: #ff0000;
-	border: #ff0000 solid 2px;
+	background-color: #f46707;
+	border: #f46707 solid 2px;
 	color: #fff;
 }
 .Request-box {
@@ -1731,7 +1731,7 @@ input[type="checkbox"] .styled:checked+label::after, input[type="radio"] .styled
 	border: #ff0000 solid 1px;
 }
 .footer {
-	background-color: #2b2a2a;
+	background-color: #616361;
 	padding: 80px 0px;
 }
 .footer .Contact h3 {
@@ -1811,14 +1811,14 @@ ul.socil_link li:last-child {
 .footer .newsletter .subscribe {
 	padding: 21px 48px;
 	margin-left: -28px;
-	border: #f00 solid 1px;
-	background: #f00;
+	border: #f46707 solid 1px;
+	background: #f46707;
 	border-radius: 10px;
 	color: #fff;
 	text-transform: uppercase;
 }
 .copyright {
-	background-color: #ad2100;
+	background-color: #f46707;
 	padding: 10px 0px;
 }
 .copyright p {
@@ -1833,7 +1833,7 @@ ul.socil_link li:last-child {
 
 
 .about-bg {
-	background-color: #ad2100;
+	background-color: #f46707;
 	margin-bottom: 90px;
 }
 .about-bg .abouttitle h2 {
@@ -1846,7 +1846,7 @@ ul.socil_link li:last-child {
 	text-align: center;
 }
 .Currency-bg {
-	background-color: #ad2100;
+	background-color: #f46707;
 }
 .Currency-bg .abouttitle h2 {
 	color: #fff;
@@ -1858,7 +1858,7 @@ ul.socil_link li:last-child {
 	text-align: center;
 }
 .Request-bg {
-	background-color: #ad2100;
+	background-color: #f46707;
 }
 .Request-bg .abouttitle h2 {
 	color: #fff;
@@ -1870,7 +1870,7 @@ ul.socil_link li:last-child {
 	text-align: center;
 }
 .Team-bg {
-	background-color: #ad2100;
+	background-color: #f46707;
 }
 .Team-bg .abouttitle h2 {
 	color: #fff;
