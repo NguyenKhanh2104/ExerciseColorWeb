@@ -1723,12 +1723,12 @@ input[type="checkbox"] .styled:checked+label::after, input[type="radio"] .styled
 	padding: 10px 35px;
 	display: inline-block;
 	margin-top: 20px;
-	color: #ff0000;
+	color: #f46707;
 }
 .Request .Request-box .Register a:hover {
-	background-color: #ff0000;
+	background-color: #f46707;
 	color: #fff;
-	border: #ff0000 solid 1px;
+	border: #f46707 solid 1px;
 }
 .footer {
 	background-color: #616361;
