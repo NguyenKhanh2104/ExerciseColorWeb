@@ -43,6 +43,7 @@ body {
 	line-height: 1.80857;
 	font-weight: normal;
 	overflow-x: hidden;
+	background-color: #8f8f8f;
 }
 a {
 	color: #1f1f1f;
@@ -187,6 +188,7 @@ button {
 	float: left;
 	margin: 0;
 	padding: 0;
+	padding-left: 30px;
 }
 /**-- heading section --**/
 
@@ -256,8 +258,8 @@ a.readmore_bt {
 	text-decoration: underline !important;
 }
 .main_bt:hover, .main_bt:focus {
-	background: #ad2101;
-	border: solid #ad2101 5px;
+	background: #990404;
+	border: solid #990404 5px;
 	color: #fff;
 }
 /**-- list icon --**/
@@ -371,7 +373,7 @@ a.readmore_bt {
 
 
 .head-top {
-	background: #ad2100;
+	background: #990404;
 	padding: 6px 0px;
 }
 .head-top .email a {
@@ -399,7 +401,7 @@ a.readmore_bt {
 	color: #fff;
 }
 .logo_section {
-	background: #fff;
+	background: #8f8f8f;
 	min-height: 122px;
 	text-align: center;
 	line-height: 120px;
@@ -412,10 +414,10 @@ nav.main-menu {
 	margin-left: 0;
 }
 .menu-area-main li:hover a, .menu-area-main li:focus a {
-	color: #b23011;
+	color: #990404;
 }
 .menu-area-main li.active a {
-	color: #b23011;
+	color: #990404;
 }
 .right_cart_section {
 	float: right;
@@ -1419,7 +1421,7 @@ input[type="checkbox"] .styled:checked+label::after, input[type="radio"] .styled
 	bottom: 0;
 }
 .full-slider_cont {
-	background-color: #fff;
+	background-color: #8f8f8f;
 	padding-top: 50px;
 }
 .full-slider_cont h1 {
@@ -1428,7 +1430,7 @@ input[type="checkbox"] .styled:checked+label::after, input[type="radio"] .styled
 	color: #110707;
 }
 .dark_brown {
-	color: #ad2100;
+	color: darkred;
 	font-weight: bold;
 }
 .full-slider_cont p {
@@ -1439,7 +1441,7 @@ input[type="checkbox"] .styled:checked+label::after, input[type="radio"] .styled
 	padding: 19px 0px 70px 0px;
 }
 .Currency {
-	background-color: #fff;
+	background-color: #8f8f8f;
 	padding: 90px 0px;
 }
 .Currency .titlepage {
@@ -1453,7 +1455,7 @@ input[type="checkbox"] .styled:checked+label::after, input[type="radio"] .styled
 	color: #080404;
 }
 .cur {
-	color: #ad2100;
+	color: #990404;
 	font-weight: 500;
 }
 .Currency .three-box {
@@ -1502,11 +1504,11 @@ input[type="checkbox"] .styled:checked+label::after, input[type="radio"] .styled
 	line-height: 20px;
 }
 .Currency .three-box .read-more:hover {
-	background-color: #ad2100;
+	background-color: #990404;
 }
 .abouts {
 	display: flow-root;
-	background: #fff;
+	background: #8f8f8f;
 }
 .abouts .abouts-bg .abouts-us h3 {
 	font-size: 40px;
@@ -1535,7 +1537,7 @@ input[type="checkbox"] .styled:checked+label::after, input[type="radio"] .styled
 	padding-left: 0;
 }
 .service {
-	background-color: #fff;
+	background-color: #8f8f8f;
 	padding-top: 90px;
 }
 .service .STRONG {
@@ -1555,7 +1557,7 @@ input[type="checkbox"] .styled:checked+label::after, input[type="radio"] .styled
 	color: #fff;
 }
 .service .world {
-	background-color: #ad2100;
+	background-color: #990404;
 	text-align: center;
 	padding: 40px 40px;
 	margin-top: 30px;
@@ -1580,7 +1582,7 @@ input[type="checkbox"] .styled:checked+label::after, input[type="radio"] .styled
 	text-transform: uppercase;
 }
 .cur {
-	color: #ad2100;
+	color: #990404;
 	font-weight: 500;
 }
 .service .service-box p {
@@ -1645,7 +1647,7 @@ input[type="checkbox"] .styled:checked+label::after, input[type="radio"] .styled
 	padding: 0px 3px;
 }
 .Request {
-	background-color: #fff;
+	background-color: #8f8f8f;
 	padding-top: 90px;
 	padding-bottom: 90px;
 }
@@ -1685,8 +1687,8 @@ input[type="checkbox"] .styled:checked+label::after, input[type="radio"] .styled
 	color: #fff;
 }
 .send-btn:hover {
-	background-color: #ff0000;
-	border: #ff0000 solid 2px;
+	background-color: #990404;
+	border: #990404 solid 2px;
 	color: #fff;
 }
 .Request-box {
@@ -1723,15 +1725,15 @@ input[type="checkbox"] .styled:checked+label::after, input[type="radio"] .styled
 	padding: 10px 35px;
 	display: inline-block;
 	margin-top: 20px;
-	color: #ff0000;
+	color: #990404;
 }
 .Request .Request-box .Register a:hover {
-	background-color: #ff0000;
+	background-color: #990404;
 	color: #fff;
-	border: #ff0000 solid 1px;
+	border: #990404 solid 1px;
 }
 .footer {
-	background-color: #2b2a2a;
+	background-color: #000000;
 	padding: 80px 0px;
 }
 .footer .Contact h3 {
@@ -1811,14 +1813,14 @@ ul.socil_link li:last-child {
 .footer .newsletter .subscribe {
 	padding: 21px 48px;
 	margin-left: -28px;
-	border: #f00 solid 1px;
-	background: #f00;
+	border: #218838 solid 1px;
+	background: #218838;
 	border-radius: 10px;
 	color: #fff;
 	text-transform: uppercase;
 }
 .copyright {
-	background-color: #ad2100;
+	background-color: #000000;
 	padding: 10px 0px;
 }
 .copyright p {
@@ -1833,7 +1835,7 @@ ul.socil_link li:last-child {
 
 
 .about-bg {
-	background-color: #ad2100;
+	background-color: #990404;
 	margin-bottom: 90px;
 }
 .about-bg .abouttitle h2 {
@@ -1846,7 +1848,7 @@ ul.socil_link li:last-child {
 	text-align: center;
 }
 .Currency-bg {
-	background-color: #ad2100;
+	background-color: #990404;
 }
 .Currency-bg .abouttitle h2 {
 	color: #fff;
@@ -1858,7 +1860,7 @@ ul.socil_link li:last-child {
 	text-align: center;
 }
 .Request-bg {
-	background-color: #ad2100;
+	background-color: #990404;
 }
 .Request-bg .abouttitle h2 {
 	color: #fff;
@@ -1870,7 +1872,7 @@ ul.socil_link li:last-child {
 	text-align: center;
 }
 .Team-bg {
-	background-color: #ad2100;
+	background-color: #990404;
 }
 .Team-bg .abouttitle h2 {
 	color: #fff;
@@ -1893,7 +1895,7 @@ ul.socil_link li:last-child {
 	color: #000;
 }
 #myCarousel .carousel-control-prev:hover, #myCarousel .carousel-control-next:hover, #myCarousel .carousel-control-prev:focus, #myCarousel .carousel-control-next:focus {
-	background: #110d0c;
+	background: #990404;
 	color: #fff;
 }
 #myCarousel a.carousel-control-prev {
