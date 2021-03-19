@@ -37,7 +37,7 @@
 	box-sizing: border-box !important;
 }
 body {
-	color: #666666;
+	color: #ffc107;
 	font-size: 14px;
 	font-family: 'poppins', sans-serif;
 	line-height: 1.80857;
@@ -45,7 +45,7 @@ body {
 	overflow-x: hidden;
 }
 a {
-	color: #1f1f1f;
+	color: white;
 	text-decoration: none !important;
 	outline: none !important;
 	-webkit-transition: all .3s ease-in-out;
@@ -137,7 +137,7 @@ img {
 .lead {
 	font-size: 18px;
 	line-height: 30px;
-	color: #767676;
+	color: white;
 	margin: 0;
 	padding: 0;
 }
@@ -371,7 +371,7 @@ a.readmore_bt {
 
 
 .head-top {
-	background: #ad2100;
+	background: #ad3800;
 	padding: 6px 0px;
 }
 .head-top .email a {
@@ -399,13 +399,14 @@ a.readmore_bt {
 	color: #fff;
 }
 .logo_section {
-	background: #fff;
+	background: #ffc107;
 	min-height: 122px;
 	text-align: center;
 	line-height: 120px;
 }
 .logo {
 	float: left;
+
 }
 nav.main-menu {
 	float: right;
@@ -912,7 +913,7 @@ padding-right: 0px;
 	font-size: 16px;
 	display: block;
 	font-weight: 500;
-	color: #616361;
+	color: white;
 	text-transform: uppercase;
 }
 .main-menu ul li:last-child a {
@@ -1419,7 +1420,7 @@ input[type="checkbox"] .styled:checked+label::after, input[type="radio"] .styled
 	bottom: 0;
 }
 .full-slider_cont {
-	background-color: #fff;
+	background-color: #ffc107;
 	padding-top: 50px;
 }
 .full-slider_cont h1 {
@@ -1428,7 +1429,7 @@ input[type="checkbox"] .styled:checked+label::after, input[type="radio"] .styled
 	color: #110707;
 }
 .dark_brown {
-	color: #ad2100;
+	color: #ad3800;
 	font-weight: bold;
 }
 .full-slider_cont p {
@@ -1439,7 +1440,7 @@ input[type="checkbox"] .styled:checked+label::after, input[type="radio"] .styled
 	padding: 19px 0px 70px 0px;
 }
 .Currency {
-	background-color: #fff;
+	background-color: #ffc107;
 	padding: 90px 0px;
 }
 .Currency .titlepage {
@@ -1457,7 +1458,7 @@ input[type="checkbox"] .styled:checked+label::after, input[type="radio"] .styled
 	font-weight: 500;
 }
 .Currency .three-box {
-	border-top: #ff0000 solid 2px;
+
 	text-align: center;
 }
 .Currency .three-box figure {
@@ -1471,7 +1472,7 @@ input[type="checkbox"] .styled:checked+label::after, input[type="radio"] .styled
 	margin-top: -60px !important;
 	text-align: center;
 	box-shadow: #ddd 0px 1px 1px 1px;
-	background-color: #fff;
+	background-color: red;
 	padding: 0px 20px 26px 20px;
 	margin: 0 auto;
 	width: 310px;
@@ -1533,9 +1534,10 @@ input[type="checkbox"] .styled:checked+label::after, input[type="radio"] .styled
 .abouts .abouts-bg {
 	margin: 0;
 	padding-left: 0;
+background-color: red ;
 }
 .service {
-	background-color: #fff;
+	background-color: #ffc107;
 	padding-top: 90px;
 }
 .service .STRONG {
@@ -1612,7 +1614,7 @@ input[type="checkbox"] .styled:checked+label::after, input[type="radio"] .styled
 	padding-bottom: 0px;
 }
 .experts .experts-box {
-	background-color: #060402;
+	background-color: red;
 }
 .experts .experts-box {
 	padding-top: 50px;
@@ -1645,7 +1647,7 @@ input[type="checkbox"] .styled:checked+label::after, input[type="radio"] .styled
 	padding: 0px 3px;
 }
 .Request {
-	background-color: #fff;
+	background-color: #ffc107;
 	padding-top: 90px;
 	padding-bottom: 90px;
 }
