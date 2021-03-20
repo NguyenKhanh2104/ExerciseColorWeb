@@ -240,7 +240,7 @@ button {
 	font-weight: 600;
 }
 .main_bt {
-	background: #000;
+	background: deepskyblue;
 	color: #fff;
 	padding: 10px 60px 10px 60px;
 	float: left;
@@ -371,7 +371,7 @@ a.readmore_bt {
 
 
 .head-top {
-	background: #ad2100;
+	background: #17308a;
 	padding: 6px 0px;
 }
 .head-top .email a {
@@ -415,7 +415,7 @@ nav.main-menu {
 	color: #b23011;
 }
 .menu-area-main li.active a {
-	color: #b23011;
+	color: deepskyblue;
 }
 .right_cart_section {
 	float: right;
@@ -912,7 +912,7 @@ padding-right: 0px;
 	font-size: 16px;
 	display: block;
 	font-weight: 500;
-	color: #616361;
+	color: #fff;
 	text-transform: uppercase;
 }
 .main-menu ul li:last-child a {
@@ -1419,7 +1419,7 @@ input[type="checkbox"] .styled:checked+label::after, input[type="radio"] .styled
 	bottom: 0;
 }
 .full-slider_cont {
-	background-color: #fff;
+	background-color: #17b72b;
 	padding-top: 50px;
 }
 .full-slider_cont h1 {
@@ -1428,7 +1428,7 @@ input[type="checkbox"] .styled:checked+label::after, input[type="radio"] .styled
 	color: #110707;
 }
 .dark_brown {
-	color: #ad2100;
+	color: deepskyblue;
 	font-weight: bold;
 }
 .full-slider_cont p {
@@ -1439,7 +1439,7 @@ input[type="checkbox"] .styled:checked+label::after, input[type="radio"] .styled
 	padding: 19px 0px 70px 0px;
 }
 .Currency {
-	background-color: #fff;
+	background-color: #17b72b;
 	padding: 90px 0px;
 }
 .Currency .titlepage {
@@ -1471,7 +1471,7 @@ input[type="checkbox"] .styled:checked+label::after, input[type="radio"] .styled
 	margin-top: -60px !important;
 	text-align: center;
 	box-shadow: #ddd 0px 1px 1px 1px;
-	background-color: #fff;
+	background-color: deepskyblue;
 	padding: 0px 20px 26px 20px;
 	margin: 0 auto;
 	width: 310px;
@@ -1493,7 +1493,7 @@ input[type="checkbox"] .styled:checked+label::after, input[type="radio"] .styled
 }
 .Currency .three-box .read-more {
 	padding: 11px 20px;
-	background-color: #000;
+	background-color: deepskyblue;
 	color: #fff;
 	display: inline-block;
 	margin-top: 26px;
@@ -1506,7 +1506,7 @@ input[type="checkbox"] .styled:checked+label::after, input[type="radio"] .styled
 }
 .abouts {
 	display: flow-root;
-	background: #fff;
+	background: #17308a;
 }
 .abouts .abouts-bg .abouts-us h3 {
 	font-size: 40px;
@@ -1535,7 +1535,7 @@ input[type="checkbox"] .styled:checked+label::after, input[type="radio"] .styled
 	padding-left: 0;
 }
 .service {
-	background-color: #fff;
+	background-color: #17b72b;
 	padding-top: 90px;
 }
 .service .STRONG {
@@ -1580,7 +1580,7 @@ input[type="checkbox"] .styled:checked+label::after, input[type="radio"] .styled
 	text-transform: uppercase;
 }
 .cur {
-	color: #ad2100;
+	color: deepskyblue;
 	font-weight: 500;
 }
 .service .service-box p {
@@ -1599,6 +1599,7 @@ input[type="checkbox"] .styled:checked+label::after, input[type="radio"] .styled
 }
 .experts {
 	padding-top: 90px;
+	background-color: #17308a;
 }
 .experts .titlepage2 {
 	padding-bottom: 32px;
@@ -1612,7 +1613,7 @@ input[type="checkbox"] .styled:checked+label::after, input[type="radio"] .styled
 	padding-bottom: 0px;
 }
 .experts .experts-box {
-	background-color: #060402;
+	background-color: #17308a;
 }
 .experts .experts-box {
 	padding-top: 50px;
@@ -1645,7 +1646,7 @@ input[type="checkbox"] .styled:checked+label::after, input[type="radio"] .styled
 	padding: 0px 3px;
 }
 .Request {
-	background-color: #fff;
+	background-color: #17b72b;
 	padding-top: 90px;
 	padding-bottom: 90px;
 }
@@ -1679,9 +1680,8 @@ input[type="checkbox"] .styled:checked+label::after, input[type="radio"] .styled
 .send-btn {
 	margin-left: 15px;
 	font-size: 16px;
-	border: #000000 solid 2px;
 	padding: 16px 70px;
-	background-color: #000000;
+	background-color: deepskyblue;
 	color: #fff;
 }
 .send-btn:hover {
@@ -1731,7 +1731,7 @@ input[type="checkbox"] .styled:checked+label::after, input[type="radio"] .styled
 	border: #ff0000 solid 1px;
 }
 .footer {
-	background-color: #2b2a2a;
+	background-color: deepskyblue;
 	padding: 80px 0px;
 }
 .footer .Contact h3 {
@@ -1811,14 +1811,14 @@ ul.socil_link li:last-child {
 .footer .newsletter .subscribe {
 	padding: 21px 48px;
 	margin-left: -28px;
-	border: #f00 solid 1px;
-	background: #f00;
+	border: deepskyblue solid 1px;
+	background: red;
 	border-radius: 10px;
 	color: #fff;
 	text-transform: uppercase;
 }
 .copyright {
-	background-color: #ad2100;
+	background-color: #17308a;
 	padding: 10px 0px;
 }
 .copyright p {

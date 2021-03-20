@@ -29,6 +29,7 @@ header,
 nav,
 section {
   display: block;
+  background-color: #17b72b;
 }
 
 /**
