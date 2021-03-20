@@ -256,8 +256,8 @@ a.readmore_bt {
 	text-decoration: underline !important;
 }
 .main_bt:hover, .main_bt:focus {
-	background: #ad2101;
-	border: solid #ad2101 5px;
+	background: #1c7528;
+	border: solid #1c7528 5px;
 	color: #fff;
 }
 /**-- list icon --**/
@@ -371,7 +371,7 @@ a.readmore_bt {
 
 
 .head-top {
-	background: #ad2100;
+	background: #1c7528;
 	padding: 6px 0px;
 }
 .head-top .email a {
@@ -399,7 +399,7 @@ a.readmore_bt {
 	color: #fff;
 }
 .logo_section {
-	background: #fff;
+	background: #f1f1f1;
 	min-height: 122px;
 	text-align: center;
 	line-height: 120px;
@@ -412,10 +412,10 @@ nav.main-menu {
 	margin-left: 0;
 }
 .menu-area-main li:hover a, .menu-area-main li:focus a {
-	color: #b23011;
+	color: #1c7528;
 }
 .menu-area-main li.active a {
-	color: #b23011;
+	color: #1c7528;
 }
 .right_cart_section {
 	float: right;
@@ -1419,7 +1419,7 @@ input[type="checkbox"] .styled:checked+label::after, input[type="radio"] .styled
 	bottom: 0;
 }
 .full-slider_cont {
-	background-color: #fff;
+	background-color: #f1f1f1;
 	padding-top: 50px;
 }
 .full-slider_cont h1 {
@@ -1428,7 +1428,7 @@ input[type="checkbox"] .styled:checked+label::after, input[type="radio"] .styled
 	color: #110707;
 }
 .dark_brown {
-	color: #ad2100;
+	color: #1c7528;
 	font-weight: bold;
 }
 .full-slider_cont p {
@@ -1439,7 +1439,7 @@ input[type="checkbox"] .styled:checked+label::after, input[type="radio"] .styled
 	padding: 19px 0px 70px 0px;
 }
 .Currency {
-	background-color: #fff;
+	background-color: #f1f1f1;
 	padding: 90px 0px;
 }
 .Currency .titlepage {
@@ -1502,11 +1502,11 @@ input[type="checkbox"] .styled:checked+label::after, input[type="radio"] .styled
 	line-height: 20px;
 }
 .Currency .three-box .read-more:hover {
-	background-color: #ad2100;
+	background-color: #1c7528;
 }
 .abouts {
 	display: flow-root;
-	background: #fff;
+	background: #f1f1f1;
 }
 .abouts .abouts-bg .abouts-us h3 {
 	font-size: 40px;
@@ -1535,7 +1535,7 @@ input[type="checkbox"] .styled:checked+label::after, input[type="radio"] .styled
 	padding-left: 0;
 }
 .service {
-	background-color: #fff;
+	background-color: #f1f1f1;
 	padding-top: 90px;
 }
 .service .STRONG {
@@ -1555,7 +1555,7 @@ input[type="checkbox"] .styled:checked+label::after, input[type="radio"] .styled
 	color: #fff;
 }
 .service .world {
-	background-color: #ad2100;
+	background-color: #1c7528;
 	text-align: center;
 	padding: 40px 40px;
 	margin-top: 30px;
@@ -1580,7 +1580,7 @@ input[type="checkbox"] .styled:checked+label::after, input[type="radio"] .styled
 	text-transform: uppercase;
 }
 .cur {
-	color: #ad2100;
+	color: #1c7528;
 	font-weight: 500;
 }
 .service .service-box p {
@@ -1645,7 +1645,7 @@ input[type="checkbox"] .styled:checked+label::after, input[type="radio"] .styled
 	padding: 0px 3px;
 }
 .Request {
-	background-color: #fff;
+	background-color: #f1f1f1;
 	padding-top: 90px;
 	padding-bottom: 90px;
 }
@@ -1685,8 +1685,8 @@ input[type="checkbox"] .styled:checked+label::after, input[type="radio"] .styled
 	color: #fff;
 }
 .send-btn:hover {
-	background-color: #ff0000;
-	border: #ff0000 solid 2px;
+	background-color: #1c7528;
+	border: #1c7528 solid 2px;
 	color: #fff;
 }
 .Request-box {
@@ -1723,12 +1723,12 @@ input[type="checkbox"] .styled:checked+label::after, input[type="radio"] .styled
 	padding: 10px 35px;
 	display: inline-block;
 	margin-top: 20px;
-	color: #ff0000;
+	color: #1c7528;
 }
 .Request .Request-box .Register a:hover {
-	background-color: #ff0000;
+	background-color: #1c7528;
 	color: #fff;
-	border: #ff0000 solid 1px;
+	border: #1c7528 solid 1px;
 }
 .footer {
 	background-color: #2b2a2a;
@@ -1811,14 +1811,14 @@ ul.socil_link li:last-child {
 .footer .newsletter .subscribe {
 	padding: 21px 48px;
 	margin-left: -28px;
-	border: #f00 solid 1px;
-	background: #f00;
+	border: #1c7528 solid 1px;
+	background: #1c7528;
 	border-radius: 10px;
 	color: #fff;
 	text-transform: uppercase;
 }
 .copyright {
-	background-color: #ad2100;
+	background-color: #1c7528;
 	padding: 10px 0px;
 }
 .copyright p {
